@@ -1,0 +1,47 @@
+.infoRight {
+    text-align: start;
+}
+
+.title {
+    color: black;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    font-family: 'Pacifico';
+    height: 30px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 481px), (max-width: 660px) {
+    .infoRight {
+        text-align: center;
+    }
+
+    .title {
+        color: black;
+    }
+}
+
+@media screen and (max-width: 377px), (max-width: 480px) {
+    .infoRight {
+        text-align: center;
+    }
+
+    .title {
+        color: black;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .infoRight {
+        text-align: center;
+    }
+
+    .title {
+        color: black;
+    }
+}
