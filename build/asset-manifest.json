@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aadc3c3.css",
+    "main.js": "/static/js/main.7a12e699.js",
+    "static/media/icon-weather.jpg": "/static/media/icon-weather.66a5efd9e9a4008fcf09.jpg",
+    "static/media/background.jpg": "/static/media/background.3f3544c2a30b339026bc.jpg",
+    "index.html": "/index.html",
+    "main.3aadc3c3.css.map": "/static/css/main.3aadc3c3.css.map",
+    "main.7a12e699.js.map": "/static/js/main.7a12e699.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aadc3c3.css",
+    "static/js/main.7a12e699.js"
+  ]
+}
